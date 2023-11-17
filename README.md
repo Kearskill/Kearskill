@@ -1,6 +1,5 @@
 [ImageHead]{https://github.com/Kearskill/Kearskill/blob/main/header.png}
 
-**Kearskill/Kearskill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
