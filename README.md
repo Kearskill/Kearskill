@@ -1,4 +1,4 @@
-[ImageHead]{https://github.com/Kearskill/Kearskill/blob/main/header.png}
+![ImageHead]{https://github.com/Kearskill/Kearskill/blob/main/header.png}
 
 
 Here are some ideas to get you started:
