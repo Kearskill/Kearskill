@@ -1,8 +1,9 @@
 ![Header](./header.png)
-Some infomation about me!!
 
 ## Hi MUM!
-- 🪟 First Year Student
-- 🌱 I’m currently learning Java
-- 🥺 I hate React js so much
-- 👍 I love node js
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kearskill&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kearskill&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kearskill&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kearskill&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kearskill&theme=algolia&utcOffset=8)
+
